@@ -1,0 +1,4 @@
+C:\_WP_Code\offf\NewVersion\HereLaunchers\DLL\HereLauncher\HereLauncher\Bin\Debug\HereLauncher.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\DLL\HereLauncher\HereLauncher\Bin\Debug\HereLauncher.pdb
+C:\_WP_Code\offf\NewVersion\HereLaunchers\DLL\HereLauncher\HereLauncher\obj\Debug\HereLauncher.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\DLL\HereLauncher\HereLauncher\obj\Debug\HereLauncher.pdb

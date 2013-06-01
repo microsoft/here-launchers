@@ -1,0 +1,31 @@
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\ApplicationIcon.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Here Launcher Demo.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Here Launcher Demo.pdb
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\AppManifest.xaml
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\FullDemo_Debug_AnyCPU.xap
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\App.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\DirectionsShowRoutePage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\DirectionsShowRouteToPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\ExplorePlacesPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\GuidanceDriveWalkPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\LocationSelectorPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\MainPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\PlacesShowByIDPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\PlacesShowByLocationPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\PublicTrasportShowJourneys.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\SearchPlacesPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\ShowMapPage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\ShowPlacePage.g.cs
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\Here Launcher Demo.g.resources
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\FullDemo.Resources.AppResources.resources
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\HereLauncherDemo.csproj.GenerateResource.Cache
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\Here Launcher Demo.dll
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\Here Launcher Demo.pdb
+C:\_WP_Code\offf\NewVersion\HereLaunchers\Examples\FullDemo\FullDemo\obj\Debug\XapCacheFile.xml
