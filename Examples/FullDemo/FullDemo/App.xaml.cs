@@ -40,7 +40,21 @@ namespace FullDemo
             // Language display initialization
             InitializeLanguage();
 
-            Microsoft.Phone.Maps.MapsSettings.ApplicationContext.ApplicationId = "ThisIsMyApplicationId"; 
+            // Quick and dirty Application ID and Authentication Token initialization
+            // Due to a bug in map control, these strings should be set *after* the first map control (if any) is loaded
+            // which means that here it is too early and maps control used in this app will not see the ID & token set.
+            // But Here launchers can be used also in apps which don't use a map control
+            // in which case initialisation can be done anytime before calling launcher task's Show() method.
+            Microsoft.Phone.Maps.MapsSettings.ApplicationContext.ApplicationId = "__ApplicationID__"; 
+            Microsoft.Phone.Maps.MapsSettings.ApplicationContext.AuthenticationToken = "__AuthenticationToken__";
+
+            // Delete this section once you set your ID & token ^^
+#if DEBUG 
+#warning Please obtain a valid application ID and authentication token. 
+#else 
+#error You must specify a valid application ID and authentication token. 
+#endif 
+            
 
             // Show graphics profiling information while debugging.
             if (Debugger.IsAttached)
