@@ -40,6 +40,8 @@ namespace FullDemo
             // Language display initialization
             InitializeLanguage();
 
+            Microsoft.Phone.Maps.MapsSettings.ApplicationContext.ApplicationId = "ThisIsMyApplicationId"; 
+
             // Show graphics profiling information while debugging.
             if (Debugger.IsAttached)
             {
