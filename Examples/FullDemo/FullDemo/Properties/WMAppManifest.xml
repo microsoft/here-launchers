@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US" />
-  <App xmlns="" ProductID="{9958178f-ae78-479a-8c5e-3fc3a2f35d52}" Title="Here Launcher Demo" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="FullDemo author" Description="Here Launcher Demo application " Publisher="FullDemo" PublisherID="{30c8dd2a-1b1d-4196-8ec1-a096ae7c054f}">
+  <App xmlns="" ProductID="{9958178f-ae78-479a-8c5e-3fc3a2f35d52}" Title="Here Launcher Demo" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Nokia" Description="Here Launcher Demo application " Publisher="Nokia Developer" PublisherID="{30c8dd2a-1b1d-4196-8ec1-a096ae7c054f}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING" />
