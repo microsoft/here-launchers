@@ -13,7 +13,7 @@ The documentation for the API is located at Nokia Lumia Developer's Library
 Full source code for the demo project as well as the DLL can be found in the
 repository. All projects are designed to be built with normal Windows Phone 8
 SDK. More information on how to get started can be found in the wiki:
-https://github.com/nokia-developer/here-launchers/wiki
+https://github.com/Microsoft/here-launchers/wiki
 
 Demo project
 -------------------------------------------------------------------------------
