@@ -7,7 +7,7 @@ as the demo application illustrating the use of the API.
 Getting started
 -------------------------------------------------------------------------------
 
-The documentation for the API is located at Nokia Lumia Developer's Library
+The documentation for the API is located at Lumia Developer's Library
 (http://www.developer.nokia.com/Resources/Library/Lumia/#!maps-and-navigation/here-launchers.html).
 
 Full source code for the demo project as well as the DLL can be found in the
